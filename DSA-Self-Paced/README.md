@@ -10,3 +10,4 @@ Trailing zeros in Factorial | [Link](https://github.com/drupadpreenja-code/GFG/b
 GCD or HCF of 2 numbers | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/GreatestCommonDivisor.java) | Java
 Palindrome of a Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PalindromeNumbers.java) | Java
 LCM of 2 numbers | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LCMofTwoNumbers.java) | Java
+Check Prime Number| [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CheckForPrime.java) | Java
