@@ -7,7 +7,7 @@ public class TrailingZerosFactorial {
     public static Integer getTrailingZeros(Integer number){
         Integer result = 0;
         for(Integer i = 5; i < number ; i *= 5){
-            result = number / i;
+            result += number / i;
         }
         return result;
     }
