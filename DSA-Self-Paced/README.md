@@ -15,4 +15,4 @@ All Divisors of a Number | [Link](https://github.com/drupadpreenja-code/GFG/blob
 Prime Factors | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrintPrimeFactors.java) | Java
 Sieve Of Eratosthenes | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SieveOfEratosthenes.java) | Java
 Computing Power | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/ComputingPower.java) | Java
-IterativePower | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/IterativePower.java) | Java
+Iterative Power | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/IterativePower.java) | Java
