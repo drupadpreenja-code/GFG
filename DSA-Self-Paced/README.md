@@ -14,3 +14,4 @@ Check Prime Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/
 All Divisors of a Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/AllDivisorsAscending.java) | Java
 Prime Factors | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrintPrimeFactors.java) | Java
 Sieve Of Eratosthenes | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SieveOfEratosthenes.java) | Java
+Computing Power | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/ComputingPower.java) | Java
