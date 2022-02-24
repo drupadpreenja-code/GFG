@@ -13,3 +13,4 @@ LCM of 2 numbers | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DS
 Check Prime Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CheckForPrime.java) | Java
 All Divisors of a Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/AllDivisorsAscending.java) | Java
 Prime Factors | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrintPrimeFactors.java) | Java
+Sieve Of Eratosthenes | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SieveOfEratosthenes.java) | Java
