@@ -18,3 +18,4 @@ Computing Power of a Number | [Link](https://github.com/drupadpreenja-code/GFG/b
 Iterative Power of a Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/IterativePower.java) | Java
 Digits In Factorial | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/DigitsInFactorial.java) | Java
 Quadratic Roots | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/QuadraticRoots.java) | Java
+Exactly three Divisor | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/Exactly3Divisor.java) | Java
