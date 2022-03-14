@@ -2,6 +2,7 @@
 
 *This repo consists of some of the Problems and their implementation in various languages like Java, Apex etc.* 
 ## Problems
+### Mathematics
 Problem | Solution Link | Language 
  ------------ | ------------- | ----------- 
 Count Digits | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CountDigits.java) | Java
@@ -19,3 +20,8 @@ Iterative Power of a Number | [Link](https://github.com/drupadpreenja-code/GFG/b
 Digits In Factorial | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/DigitsInFactorial.java) | Java
 Quadratic Roots | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/QuadraticRoots.java) | Java
 Exactly three Divisor | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/Exactly3Divisor.java) | Java
+
+### Recursion
+Problem | Solution Link | Language 
+ ------------ | ------------- | ----------- 
+Binary Equivalent | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BinaryEquivalentOfNumber.java) | Java
