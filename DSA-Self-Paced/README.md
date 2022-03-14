@@ -25,3 +25,4 @@ Exactly three Divisor | [Link](https://github.com/drupadpreenja-code/GFG/blob/ma
 Problem | Solution Link | Language 
  ------------ | ------------- | ----------- 
 Binary Equivalent | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BinaryEquivalentOfNumber.java) | Java
+Print Number from and to N | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrintToN.java) | Java
