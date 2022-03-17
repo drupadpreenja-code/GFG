@@ -30,3 +30,4 @@ Factorial Using Tail Recursion | [Link](https://github.com/drupadpreenja-code/GF
 Fibonacci Number Recursion | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FibonacciNumberRecursion.java) | Java
 Sum of N Natural Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SumOfNaturalNumber.java) | Java
 Check if String Palindrome | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PalindromeString.java) | Java
+Sum of Digits in Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SumOfDigits.java) | Java
