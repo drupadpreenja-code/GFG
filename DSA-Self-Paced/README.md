@@ -31,3 +31,4 @@ Fibonacci Number Recursion | [Link](https://github.com/drupadpreenja-code/GFG/bl
 Sum of N Natural Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SumOfNaturalNumber.java) | Java
 Check if String Palindrome | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PalindromeString.java) | Java
 Sum of Digits in Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SumOfDigits.java) | Java
+Rope cutting problem | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/RopeCuttingProblem.java) | Java
