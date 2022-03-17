@@ -27,3 +27,6 @@ Problem | Solution Link | Language
 Binary Equivalent | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BinaryEquivalentOfNumber.java) | Java
 Print Number from and to N | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrintToN.java) | Java
 Factorial Using Tail Recursion | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FactorialTailRecursion.java) | Java
+Fibonacci Number Recursion | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FibonacciNumberRecursion.java) | Java
+Sum of N Natural Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SumOfNaturalNumber.java) | Java
+Check if String Palindrome | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PalindromeString.java) | Java
