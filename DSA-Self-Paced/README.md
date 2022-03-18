@@ -4,7 +4,7 @@
 ## Problems
 ### Mathematics
 S.No. | Problem | Solution Link | Language 
- ------------ | ------------- | ----------- 
+ ------------ | ------------ | ------------- | ----------- 
 1 | Count Digits | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CountDigits.java) | Java
 2 | Factorial of a Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FactorialNumber.java) | Java
 3 | Trailing zeros in Factorial | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TrailingZerosFactorial.java) | Java
@@ -23,7 +23,7 @@ S.No. | Problem | Solution Link | Language
 
 ### Recursion
 S.No | Problem | Solution Link | Language 
- ------------ | ------------- | ----------- 
+ ------------ | ------------ | ------------- | ----------- 
 1 | Binary Equivalent | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BinaryEquivalentOfNumber.java) | Java
 2 | Print Number from and to N | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrintToN.java) | Java
 3 | Factorial Using Tail Recursion | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FactorialTailRecursion.java) | Java
