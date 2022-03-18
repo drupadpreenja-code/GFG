@@ -36,3 +36,4 @@ S.No | Problem | Solution Link | Language
 10 | Tower Of Hanoi | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TowerOfHanoi.java) | Java
 11 | Josephus Problem | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/JosephusProblem.java) | Java
 12 | Subset Sum Problem | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SubsetSumProblem.java) | Java
+13 | Digital Root | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/DigitalRoot.java) | Java
