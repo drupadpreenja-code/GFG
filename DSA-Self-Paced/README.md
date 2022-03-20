@@ -48,3 +48,4 @@ S.No | Problem | Solution Link | Language
 2 | Second Largest Element index | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SecondLargestElement.java) | Java
 3 | Reverse an Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/ReverseAnArray.java) | Java
 4 | Remove Duplicate from Sorted Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/RemoveDuplicateElements.java) | Java
+5 | Move zeros to end | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MoveZerosToEnd.java) | Java
