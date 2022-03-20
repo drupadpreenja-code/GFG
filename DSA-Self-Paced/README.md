@@ -47,3 +47,4 @@ S.No | Problem | Solution Link | Language
 1 | Largest Element in an Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LargestElementIndexArray.java) | Java
 2 | Second Largest Element index | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SecondLargestElement.java) | Java
 3 | Reverse an Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/ReverseAnArray.java) | Java
+4 | Remove Duplicate from Sorted Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/RemoveDuplicateElements.java) | Java
