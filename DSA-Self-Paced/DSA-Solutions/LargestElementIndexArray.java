@@ -1,7 +1,7 @@
 public class LargestElementIndexArray {
     
     /**
-     * Program to Find the Largest element in an Array
+     * Program to Find the index of Largest element in an Array
      * @param arr
      * @return
      */
