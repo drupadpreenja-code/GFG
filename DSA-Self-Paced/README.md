@@ -40,3 +40,8 @@ S.No | Problem | Solution Link | Language
 14 | Check Lucky Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LuckyNumber.java) | Java
 15 | Permutation of the String | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PermutationOfString.java) | Java
 16 | Possible Words Phone Digits | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PossibleWordsPhone.java) | Java
+
+### Arrays
+S.No | Problem | Solution Link | Language 
+ ------------ | ------------ | ------------- | ----------- 
+1 | Largest Element in an Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LargestElementIndexArray.java) | Java
