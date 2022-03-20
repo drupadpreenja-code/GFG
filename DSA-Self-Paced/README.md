@@ -39,3 +39,4 @@ S.No | Problem | Solution Link | Language
 13 | Digital Root | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/DigitalRoot.java) | Java
 14 | Check Lucky Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LuckyNumber.java) | Java
 15 | Permutation of the String | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PermutationOfString.java) | Java
+16 | Possible Words Phone Digits | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PossibleWordsPhone.java) | Java
