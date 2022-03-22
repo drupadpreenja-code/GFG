@@ -52,4 +52,4 @@ S.No. | Problem | Solution Link | Language
 6 | Left rotate an array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LeftRotateArray.java) | Java
 7 | Frequency of all elements in sorted array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FrequecyOfAllElements.java) | Java
 8 | Maximum Difference problem with order | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumDifference.java) | Java
-8 | Maximum Difference problem with order | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/StockBuySellProblem.java) | Java
+9 | Stock Buy and Sell Problem | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/StockBuySellProblem.java) | Java
