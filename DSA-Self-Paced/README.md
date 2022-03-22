@@ -55,3 +55,4 @@ S.No. | Problem | Solution Link | Language
 9 | Stock Buy and Sell Problem | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/StockBuySellProblem.java) | Java
 10 | Trapping rain water | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TrappingRailWater.java) | Java
 11 | Maximum Sum Sub-array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumSumSubarray.java) | Java
+12 | Length of Longest Even Odd Sub-array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LengthOfLongestEvenOddSubarray.java) | Java
