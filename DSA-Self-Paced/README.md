@@ -53,3 +53,4 @@ S.No. | Problem | Solution Link | Language
 7 | Frequency of all elements in sorted array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FrequecyOfAllElements.java) | Java
 8 | Maximum Difference problem with order | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumDifference.java) | Java
 9 | Stock Buy and Sell Problem | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/StockBuySellProblem.java) | Java
+10 | Trapping rain water | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TrappingRailWater.java) | Java
