@@ -1,5 +1,10 @@
 public class TrappingRailWater {
     
+    /**
+     * Calculate the unit of water trapped in the structure.
+     * @param arr
+     * @return
+     */
     public static int trapWaterQty(int[] arr){
         int res = 0, lmax = 0, rmax = 0;
         int[] leftMax = new int[arr.length];
