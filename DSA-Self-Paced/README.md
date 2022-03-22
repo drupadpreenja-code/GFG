@@ -22,7 +22,7 @@ S.No. | Problem | Solution Link | Language
 15 | Exactly three Divisor | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/Exactly3Divisor.java) | Java
 
 ### Recursion
-S.No | Problem | Solution Link | Language 
+S.No. | Problem | Solution Link | Language 
  ------------ | ------------ | ------------- | ----------- 
 1 | Binary Equivalent | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BinaryEquivalentOfNumber.java) | Java
 2 | Print Number from and to N | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrintToN.java) | Java
@@ -42,7 +42,7 @@ S.No | Problem | Solution Link | Language
 16 | Possible Words Phone Digits | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PossibleWordsPhone.java) | Java
 
 ### Arrays
-S.No | Problem | Solution Link | Language 
+S.No. | Problem | Solution Link | Language 
  ------------ | ------------ | ------------- | ----------- 
 1 | Largest Element in an Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LargestElementIndexArray.java) | Java
 2 | Second Largest Element index | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SecondLargestElement.java) | Java
@@ -52,3 +52,4 @@ S.No | Problem | Solution Link | Language
 6 | Left rotate an array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LeftRotateArray.java) | Java
 7 | Frequency of all elements in sorted array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FrequecyOfAllElements.java) | Java
 8 | Maximum Difference problem with order | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumDifference.java) | Java
+8 | Maximum Difference problem with order | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/StockBuySellProblem.java) | Java
