@@ -57,3 +57,4 @@ S.No. | Problem | Solution Link | Language
 11 | Maximum Sum Sub-array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumSumSubarray.java) | Java
 12 | Length of Longest Even Odd Sub-array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/LengthOfLongestEvenOddSubarray.java) | Java
 13 | Maximum Circular Sub array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumCircularSubarray.java) | Java
+14 | Index of Majority Element in Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MajorityElement.java) | Java
