@@ -59,3 +59,4 @@ S.No. | Problem | Solution Link | Language
 13 | Maximum Circular Sub array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumCircularSubarray.java) | Java
 14 | Index of Majority Element in Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MajorityElement.java) | Java
 15 | Maximum Index Difference | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumIndexDifference.java) | Java
+15 | Rearrange Array Alternately | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/RearrangeArrayAlternately.java) | Java
