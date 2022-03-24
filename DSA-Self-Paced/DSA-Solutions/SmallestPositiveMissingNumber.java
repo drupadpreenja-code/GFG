@@ -13,7 +13,7 @@ public class SmallestPositiveMissingNumber {
         for (int i = 0; i < arr.length; i++) {
             // Check only positive, Less than length, value != index + 1
             // Swap the values till a[i] == i + 1
-            while (arr[i] > 0 && arr[i] < arr.length && arr[i] != i + 1) {
+            while (arr[i] > 0 && arr[i] <= arr.length && arr[i] != arr[arr[i] - 1]) {
                 int temp = arr[arr[i] - 1];
                 arr[arr[i] - 1] = arr[i];
                 arr[i] = temp;
