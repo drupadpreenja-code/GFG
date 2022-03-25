@@ -61,3 +61,4 @@ S.No. | Problem | Solution Link | Language
 15 | Maximum Index Difference | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MaximumIndexDifference.java) | Java
 16 | Rearrange Array Alternately | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/RearrangeArrayAlternately.java) | Java
 17 | Smallest Positive Missing Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SmallestPositiveMissingNumber.java) | Java
+18 | Prefix Sum in an Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrefixSum.java) | Java
