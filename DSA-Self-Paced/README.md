@@ -69,3 +69,4 @@ S.No. | Problem | Solution Link | Language
  ------------ | ------------ | ------------- | ----------- 
 1 | Index of first Occurrence in Sorted | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/IndexOfFirstOccurrence.java) | Java
 2 | Index of Last Occurrence in Sorted | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/IndexOfLastOccurrence.java) | Java
+3 | Count Occurrences in Sorted | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CountOccurrencesInSorted.java) | Java

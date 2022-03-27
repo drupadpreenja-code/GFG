@@ -16,7 +16,7 @@ public class IndexOfLastOccurrence {
             }else if(arr[mid] < num){
                 low = mid + 1;
             }else{
-                if(mid != arr.length - 1 || arr[mid + 1] != num){
+                if(mid == arr.length - 1 || arr[mid + 1] != arr[mid]){
                     return mid;
                 }else{
                     low = mid + 1;

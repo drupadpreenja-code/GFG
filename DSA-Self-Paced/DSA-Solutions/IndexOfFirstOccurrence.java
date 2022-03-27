@@ -16,7 +16,7 @@ public class IndexOfFirstOccurrence {
             }else if(arr[mid] < num){
                 low = mid + 1;
             }else{
-                if(mid == 0 || arr[mid - 1] != num){
+                if(mid == 0 || arr[mid - 1] != arr[mid]){
                     return mid;
                 }else{
                     high = mid - 1;
