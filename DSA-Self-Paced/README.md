@@ -63,3 +63,8 @@ S.No. | Problem | Solution Link | Language
 17 | Smallest Positive Missing Number | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SmallestPositiveMissingNumber.java) | Java
 18 | Prefix Sum in an Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PrefixSum.java) | Java
 19 | Reverse an Array in Groups | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/ReverseInGroups.java) | Java
+
+### Searching
+S.No. | Problem | Solution Link | Language 
+ ------------ | ------------ | ------------- | ----------- 
+1 | Index of first Occurrence in Sorted | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/IndexOfFirstOccurrence.java) | Java
