@@ -1,5 +1,11 @@
 public class IndexOfLastOccurrence {
     
+    /**
+     * Search the Index of Last Occurrence of element in sorted array
+     * @param arr
+     * @param num
+     * @return
+     */
     public static int getIndex(int arr[], int num){
         int low = 0;
         int high = arr.length - 1;
