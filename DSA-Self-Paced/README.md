@@ -73,3 +73,4 @@ S.No. | Problem | Solution Link | Language
 4 | Floor of Square Root | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SquareRootBinarySearch.java) | Java
 5 | Search index Infinite Sorted Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SearchInfiniteSorted.java) | Java
 6 | Index of Peak element | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PeakElement.java) | Java
+7 | Index of Floor of Element | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FloorInSortedArray.java) | Java
