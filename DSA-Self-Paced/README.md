@@ -75,3 +75,4 @@ S.No. | Problem | Solution Link | Language
 5 | Search index Infinite Sorted Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SearchInfiniteSorted.java) | Java
 6 | Index of Peak element | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/PeakElement.java) | Java
 7 | Index of Floor of Element | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FloorInSortedArray.java) | Java
+8 | Find Repeating Element | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FindRepeatingElement.java) | Java
