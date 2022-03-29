@@ -27,18 +27,18 @@ public class FindRepeatingElement {
      * @return
      */
     public static int getRepeatingElement2(int arr[]){
-        int slow = arr[0];
-        int fast = arr[0];
+        int slow = arr[0] + 1;
+        int fast = arr[0] + 1;
         do{
-            slow = arr[slow];
-            fast = arr[arr[fast]];
+            slow = arr[slow] + 1;
+            fast = arr[arr[fast] + 1]  + 1;
         }while(slow != fast);
 
-        slow = arr[0];
+        slow = arr[0] + 1;
         while(slow != fast){
-            slow = arr[slow];
-            fast = arr[fast];
+            slow = arr[slow] + 1;
+            fast = arr[fast] + 1;
         }
-        return slow;
+        return slow - 1;
     }
 }
