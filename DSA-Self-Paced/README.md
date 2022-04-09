@@ -78,6 +78,11 @@ S.No. | Problem | Solution Link | Language
 8 | Find Repeating Element | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FindRepeatingElement.java) | Java
 9 | Two Repeating Elements | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TwoRepeatingElements.java) | Java
 
+### Sorting
+S.No. | Problem | Solution Link | Language 
+ ------------ | ------------ | ------------- | ----------- 
+1 | Bubble Sort | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BubbleSorting.java) | Java
+
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
  ------------ | ------------ | ------------- | ----------- 
