@@ -83,6 +83,7 @@ S.No. | Problem | Solution Link | Language
  ------------ | ------------ | ------------- | ----------- 
 1 | Bubble Sort | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BubbleSorting.java) | Java
 2 | Selection Sort | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SelectionSorting.java) | Java
+3 | Insertion Sort | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/InsertionSorting.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
