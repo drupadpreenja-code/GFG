@@ -92,6 +92,7 @@ S.No. | Problem | Solution Link | Language
 2 | Sum of Upper & Lower Triangles | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SumOfUpperLowerTriangles.java) | Java
 3 | Multiply Matrices | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MultiplyMatrices.java) | Java
 4 | Matrix in Snake Pattern | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MatricesSnakePattern.java) | Java
+5 | Transpose of Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TransposeMatrix.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
