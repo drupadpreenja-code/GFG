@@ -91,6 +91,7 @@ S.No. | Problem | Solution Link | Language
 1 | Add Two Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/AddTwoMatrix.java) | Java
 2 | Sum of Upper & Lower Triangles | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SumOfUpperLowerTriangles.java) | Java
 3 | Multiply Matrices | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MultiplyMatrices.java) | Java
+4 | Matrix in Snake Pattern | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MatricesSnakePattern.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
