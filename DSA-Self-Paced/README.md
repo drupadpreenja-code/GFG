@@ -85,6 +85,11 @@ S.No. | Problem | Solution Link | Language
 2 | Selection Sort | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SelectionSorting.java) | Java
 3 | Insertion Sort | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/InsertionSorting.java) | Java
 
+### Matrix
+S.No. | Problem | Solution Link | Language 
+ ------------ | ------------ | ------------- | ----------- 
+1 | Add Two Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/AddTwoMatrix.java) | Java
+
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
  ------------ | ------------ | ------------- | ----------- 
