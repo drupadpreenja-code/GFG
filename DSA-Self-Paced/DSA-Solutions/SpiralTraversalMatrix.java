@@ -29,13 +29,12 @@ public class SpiralTraversalMatrix {
                 }
                 bottom--;
             }
-            if (top <= bottom) {
+            if (left <= right) {
                 for (int i = bottom; i >= top; i--) {
                     res.add(matrix[i][left]);
                 }
                 left++;
             }
-
         }
         return res;
     }
