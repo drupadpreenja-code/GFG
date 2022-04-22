@@ -97,6 +97,7 @@ S.No. | Problem | Solution Link | Language
 7 | Boundary Traversal Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BoundaryTraversalMatrix.java) | Java
 8 | Spiral Traversal Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SpiralTraversalMatrix.java) | Java
 9 | Search in Sorted Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SearchSortedMatrix.java) | Java
+10 | Beautiful Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BeautifulMatrix.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
