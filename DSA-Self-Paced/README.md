@@ -103,7 +103,8 @@ S.No. | Problem | Solution Link | Language
 S.No. | Problem | Solution Link | Language 
  ------------ | ------------ | ------------- | ----------- 
 1 | Separate chaining | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingSeperateChaining.java) | Java
-2 | Linear Probing | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingLinearProbing.java) | Java 
+2 | Linear Probing | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingLinearProbing.java) | Java
+3 | Count Non Repeating | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingCountDistinct.java) | Java 
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
