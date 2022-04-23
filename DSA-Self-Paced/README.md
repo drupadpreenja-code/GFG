@@ -99,6 +99,11 @@ S.No. | Problem | Solution Link | Language
 9 | Search in Sorted Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SearchSortedMatrix.java) | Java
 10 | Beautiful Matrix | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/BeautifulMatrix.java) | Java
 
+### Hashing
+S.No. | Problem | Solution Link | Language 
+ ------------ | ------------ | ------------- | ----------- 
+1 | Separate chaining | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingSeperateChaining.java) | Java
+
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
  ------------ | ------------ | ------------- | ----------- 
