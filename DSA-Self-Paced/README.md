@@ -107,6 +107,7 @@ S.No. | Problem | Solution Link | Language
 3 | Count Non Repeating | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingCountDistinct.java) | Java 
 4 | Intersection of Arrays | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingIntersectionOfArrays.java) | Java 
 5 | Check Sum Zero for Sub Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingCheckSumZeroSubArray.java) | Java
+6 | Check if two arrays are equal | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingCheckSumZero.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
