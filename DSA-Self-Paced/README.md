@@ -106,6 +106,7 @@ S.No. | Problem | Solution Link | Language
 2 | Linear Probing | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingLinearProbing.java) | Java
 3 | Count Non Repeating | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingCountDistinct.java) | Java 
 4 | Intersection of Arrays | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingIntersectionOfArrays.java) | Java 
+5 | Check Sum Zero for Sub Array | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingCheckSumZeroSubArray.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
