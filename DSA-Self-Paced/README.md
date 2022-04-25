@@ -111,6 +111,7 @@ S.No. | Problem | Solution Link | Language
 7 | Winner of an election | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingWinnerElection.java) | Java
 8 | Subarray range with given Sum | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingSubarrayGivenSum.java) | Java
 9 | Positive Negative Pair | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingPositiveNegativePair.java) | Java
+10 | Zero Sum Subarray | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingZeroSumSubArray.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
