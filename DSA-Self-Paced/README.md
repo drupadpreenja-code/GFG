@@ -110,6 +110,7 @@ S.No. | Problem | Solution Link | Language
 6 | Check if two arrays are equal | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingCheckSumZero.java) | Java
 7 | Winner of an election | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingWinnerElection.java) | Java
 8 | Subarray range with given Sum | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingSubarrayGivenSum.java) | Java
+9 | Positive Negative Pair | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingPositiveNegativePair.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
