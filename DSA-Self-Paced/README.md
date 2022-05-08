@@ -129,6 +129,7 @@ _This repo consists of some of the Problems and their implementation in various 
 | S.No. | Problem                 | Solution Link                                                                                                         | Language |
 | ----- | ----------------------- | --------------------------------------------------------------------------------------------------------------------- | -------- |
 | 1     | Simply Linked List Impl | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SimplyLinkedListImpl.java) | Java     |
+| 2     | Traversing Linked List | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TraversingLinkedList.java) | Java     |
 
 ### Miscellaneous
 
