@@ -4,18 +4,21 @@ public class InsertionBeginAndEnd {
      * Initializing a Linked List
      */
     public static void initializeLinkedList() {
-        Node head = null;
+
         System.out.println("------Insert Begin------");
+        Node head = null;
         head = insertBegin(head, 30);
         head = insertBegin(head, 20);
         head = insertBegin(head, 10);
         traverseAndPrint(head);
+
         System.out.println("------Insert End------");
         Node head2 = null;
         head2 = insertEnd(head2, 10);
         head2 = insertEnd(head2, 20);
         head2 = insertEnd(head2, 30);
         traverseAndPrint(head2);
+
     }
 
     /**
