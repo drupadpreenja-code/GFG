@@ -113,6 +113,7 @@ S.No. | Problem | Solution Link | Language
 9 | Positive Negative Pair | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingPositiveNegativePair.java) | Java
 10 | Zero Sum Subarray | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingZeroSumSubArray.java) | Java
 11 | Longest Subarray with Given Sum | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingLongestSubarraySum.java) | Java
+12 | Longest Subarray with Equal 0s & 1s | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/HashingLongestSubarrayBinary.java) | Java
 
 ### Miscellaneous
 S.No. | Problem | Solution Link | Language 
