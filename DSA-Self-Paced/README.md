@@ -134,6 +134,7 @@ _This repo consists of some of the Problems and their implementation in various 
 | 4     | Reverse Doubly Linked List        | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/ReverseDoublyLinkedList.java)       | Java     |
 | 5     | Circular Linked List Traversal    | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CircularLinkedListTraversal.java)   | Java     |
 | 6     | Circular Linked List Insert Begin | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CircularLinkedListInsertBegin.java) | Java     |
+| 7     | Circular Linked List Insert End   | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CircularLinkedListInsertEnd.java)   | Java     |
 
 ### Miscellaneous
 
