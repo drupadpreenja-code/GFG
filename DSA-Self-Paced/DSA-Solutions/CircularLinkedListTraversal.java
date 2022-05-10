@@ -27,6 +27,6 @@ public class CircularLinkedListTraversal {
         do {
             System.out.println(current.data);
             current = current.next;
-        } while (current.data != head.data);
+        } while (current != head);
     }
 }
