@@ -126,13 +126,14 @@ _This repo consists of some of the Problems and their implementation in various 
 
 ### Linked List
 
-| S.No. | Problem                        | Solution Link                                                                                                             | Language |
-| ----- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 1     | Simply Linked List Impl        | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SimplyLinkedListImpl.java)        | Java     |
-| 2     | Traversing Linked List         | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TraversingLinkedList.java)        | Java     |
-| 3     | Insertion at Begin and End     | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/InsertionBeginAndEnd.java)        | Java     |
-| 4     | Reverse Doubly Linked List     | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/ReverseDoublyLinkedList.java)     | Java     |
-| 5     | Circular Linked List Traversal | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CircularLinkedListTraversal.java) | Java     |
+| S.No. | Problem                           | Solution Link                                                                                                               | Language |
+| ----- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 1     | Simply Linked List Impl           | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/SimplyLinkedListImpl.java)          | Java     |
+| 2     | Traversing Linked List            | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TraversingLinkedList.java)          | Java     |
+| 3     | Insertion at Begin and End        | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/InsertionBeginAndEnd.java)          | Java     |
+| 4     | Reverse Doubly Linked List        | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/ReverseDoublyLinkedList.java)       | Java     |
+| 5     | Circular Linked List Traversal    | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CircularLinkedListTraversal.java)   | Java     |
+| 6     | Circular Linked List Insert Begin | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CircularLinkedListInsertBegin.java) | Java     |
 
 ### Miscellaneous
 
