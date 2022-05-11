@@ -136,6 +136,7 @@ _This repo consists of some of the Problems and their implementation in various 
 | 6     | Circular Linked List Insert Begin | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CircularLinkedListInsertBegin.java) | Java     |
 | 7     | Circular Linked List Insert End   | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CircularLinkedListInsertEnd.java)   | Java     |
 | 8     | Middle Element in Linked List     | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/MiddleElementLinkedList.java)       | Java     |
+| 9     | Nth node from end of Linked List  | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/NthNodeEndLinkList.java)            | Java     |
 
 ### Miscellaneous
 
