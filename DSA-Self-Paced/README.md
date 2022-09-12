@@ -8,7 +8,7 @@ _This repo consists of some of the Problems and their implementation in various 
 
 | S.No. | Problem                     | Solution Link                                                                                                        | Language |
 | ----- | --------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------- |
-| 1     | Count Digits                | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CountDigits.java)            | Java     |
+| 1     | Count Digits                | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/CountDigits.java)            | Apex     |
 | 2     | Factorial of a Number       | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/FactorialNumber.java)        | Java     |
 | 3     | Trailing zeros in Factorial | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/TrailingZerosFactorial.java) | Java     |
 | 4     | GCD or HCF of 2 numbers     | [Link](https://github.com/drupadpreenja-code/GFG/blob/main/DSA-Self-Paced/DSA-Solutions/GreatestCommonDivisor.java)  | Java     |
